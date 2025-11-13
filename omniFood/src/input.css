@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.text-g {
+    @apply text-[#333];
+}
